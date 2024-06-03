@@ -24,3 +24,6 @@ I am a Backend Developer from Russia.
 ---
 
 ### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kolbeshin&theme=dark&background=000000)](https://git.io/streak-stats)
+
