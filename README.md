@@ -27,8 +27,10 @@ I am eager to develop my programming skills and apply them in practical projects
 ---
 
 ## Completed courses
-  - Golang Developer, OTUS
-  - Python, Yandex Lyceum
+
+Golang Developer, OTUS
+Python, Yandex Lyceum
+
 ---
 ## Employment Histoty
 - ### Startup
