@@ -4,7 +4,7 @@
 ### :man_technologist: About Me :
 I am a Backend Developer from Russia.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=blue)](https://t.me/gkolbeshin)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-kolbeshin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/gkolbeshin)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
