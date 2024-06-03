@@ -50,9 +50,12 @@ As part of the project, I wrote a modular monolith, as a microservice approach i
 
 ---
 ## Internship
+
 ### Scientific and Educational Center of NAMI FSUE
 Development of window applications in ms visual studio environment in the language of
 C/C++ for testing electronic devices
+
+---
 
 ## :fire: My Stats :
 
