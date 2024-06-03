@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <img src="https://komarev.com/ghpvc/?username=kolbeshin&style=flat-square&color=blue" alt=""/>
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 I am a Golang Developer from Russia.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-kolbeshin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/gkolbeshin)
@@ -26,7 +26,7 @@ I am a Golang Developer from Russia.
 
 ---
 
-### :fire: My Stats :
+## :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kolbeshin&theme=dark&background=000000)](https://git.io/streak-stats)
 
