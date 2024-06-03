@@ -22,9 +22,24 @@ I am a Golang Developer from Russia.
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![GoLand](https://img.shields.io/static/v1?style=for-the-badge&message=GoLand&color=000000&logo=GoLand&logoColor=FFFFFF&label=)
 
-
-
 ---
+## Employment Histoty
+- ### Startup
+  - I was developing the back-end part of a web application for a project that imports a replacement for Tyromotion, an organization that left Russia (Tyromotion was engaged in rehabilitation of limbs after surgical interventions or due to human peculiarities by means of playing games, the results of which are recorded by sensors attached to the limbs). 
+As part of the project, I wrote a modular monolith, as a microservice approach is not rational in this situation. The language chosen was Golang with Gin frameworks (for wrapping over standard http), GORM (for database interaction). I wrote authentication on JWT tokens, the token itself is transferred in cookies. Interaction with the client is realized through REST API. DBMS - PostgreSQL. Passwords are encrypted using bcrypt. For application deployment I used docker compose.
+- ### Moscow Polytechnic Children's Technopark
+  2022-2023
+  - Preparing and conducting training workshops on Python
+  - Telegram-bot for technopark document flow automation
+  - Development of programs for conducting short training thematic IT courses
+- ### Freelance, Development of telegram bots
+  2021-2024
+  - #### Festival of professions “Ticket to the Future”
+    Automated collection and systematization of report photos during a long event
+  - #### Школа 1502 при МЭИ
+    Authorize users, create Excel reports, send messages to administration via bot, provide schedules and other information
+  - #### «Beznazvaniya»
+    Processing payment for participation in regular entertainment events, collecting and storing payment confirmations in Excel
 
 ## :fire: My Stats :
 
