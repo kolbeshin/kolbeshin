@@ -2,7 +2,9 @@
 <img src="https://komarev.com/ghpvc/?username=kolbeshin&style=flat-square&color=blue" alt=""/>
 
 ## :man_technologist: About Me :
-I am a Golang Developer from Russia.
+Golang Developer from Russia.
+
+I am eager to develop my programming skills and apply them in practical projects. I'm currently actively studying kafka and k8s. I'm ready to get actively involved and add value to your organization.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-kolbeshin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/gkolbeshin)
 
@@ -36,10 +38,21 @@ As part of the project, I wrote a modular monolith, as a microservice approach i
   2021-2024
   - #### Festival of professions “Ticket to the Future”
     Automated collection and systematization of report photos during a long event
-  - #### Школа 1502 при МЭИ
+  - #### School №1502
     Authorize users, create Excel reports, send messages to administration via bot, provide schedules and other information
   - #### «Beznazvaniya»
     Processing payment for participation in regular entertainment events, collecting and storing payment confirmations in Excel
+---
+## Achievements
+- Recommendation of the Moscow Power Engineering Institute.
+- Letter of appreciation signed by the First Deputy Director General of the autonomous non-profit organization «Human Capital Development»
+- Winner in the city scientific-practical conference “Engineers of the Future” in IT direction, section “Programming”
+
+---
+## Internship
+### Scientific and Educational Center of NAMI FSUE
+Development of window applications in ms visual studio environment in the language of
+C/C++ for testing electronic devices
 
 ## :fire: My Stats :
 
