@@ -25,6 +25,11 @@ I am eager to develop my programming skills and apply them in practical projects
 ![GoLand](https://img.shields.io/static/v1?style=for-the-badge&message=GoLand&color=000000&logo=GoLand&logoColor=FFFFFF&label=)
 
 ---
+
+## Completed courses
+  - Golang Developer, OTUS
+  - Python, Yandex Lyceum
+---
 ## Employment Histoty
 - ### Startup
   - I was developing the back-end part of a web application for a project that imports a replacement for Tyromotion, an organization that left Russia (Tyromotion was engaged in rehabilitation of limbs after surgical interventions or due to human peculiarities by means of playing games, the results of which are recorded by sensors attached to the limbs). 
