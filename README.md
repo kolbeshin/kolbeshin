@@ -4,8 +4,6 @@
 ## :man_technologist: About Me :
 Golang Developer from Russia.
 
-I am eager to develop my programming skills and apply them in practical projects. I'm currently actively studying kafka and k8s. I'm ready to get actively involved and add value to your organization.
-
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-kolbeshin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/gkolbeshin)
 
 ---
